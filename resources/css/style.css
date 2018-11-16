@@ -388,6 +388,20 @@ textarea {
     border: 1px solid #e3e3e3;
 }
 
+.form-message {
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 2px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #fff;
+}
+
+.success { background-color: rgba(3, 157, 33, 0.83); }
+
+.error { background-color: rgba(212, 5, 5, 0.83); }
+
 
 /* -------------------------------------------------------------------- */
 /* ---------------------------- FOOTER -------------------------------- */
